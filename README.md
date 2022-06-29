@@ -1,13 +1,15 @@
 # SGBS
 
-Reference implementation of *Simulation-Guided Beam Search for Neural Combinatorial Optimization*.
+This Repository is a reference implementation of *Simulation-Guided Beam Search for Neural Combinatorial Optimization*.
 
 <br>
 
 ## Problems
 * Traveling Salesperson Problem (TSP)  
 * Capacitated Vehicle Routing Problem (CVRP)  
-* Flexible Flow Shop Problem (FFSP)  
+* Flexible Flow Shop Problem (FFSP)   
+
+<br>
 
 ## Usage
 
@@ -41,9 +43,12 @@ Reference implementation of *Simulation-Guided Beam Search for Neural Combinator
 > cd ./FFSP/3_SGBS+EAS  
 > python3 test_ffsp20(50/100).py
 
+<br>
 
 ## FFSP trained model & dataset
 will be uploaded soon
+
+<br>
 
 ## Language and Libraries
 python 3.8.6  
