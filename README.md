@@ -35,6 +35,9 @@ This Repository is a reference implementation of *Simulation-Guided Beam Search 
 
 ### 🌱 FFSP
 
+To run SGBS and SGBS+EAS for FFSP, you have to download and unpack FFSP.tar.gz first.  
+See *FFSP trained model & dataset* section.  
+
 #### SGBS
 > cd ./FFSP/2_SGBS  
 > python3 test_ffsp20(50/100).py
@@ -46,7 +49,9 @@ This Repository is a reference implementation of *Simulation-Guided Beam Search 
 <br>
 
 ## FFSP trained model & dataset
-will be uploaded soon
+download FFSP trained model and dataset file from https://drive.google.com/file/d/1TdkeErG1FCUMxoe8ENpxiWwUopPIUikb/view?usp=sharing  
+move FFSP.tar.gz into your root folder and unpack
+> tar -xvzf FFSP.tar.gz
 
 <br>
 
