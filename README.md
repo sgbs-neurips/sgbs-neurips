@@ -49,8 +49,8 @@ See *FFSP trained model & dataset* section.
 <br>
 
 ## FFSP trained model & dataset
-download FFSP trained model and dataset file from https://drive.google.com/file/d/1TdkeErG1FCUMxoe8ENpxiWwUopPIUikb/view?usp=sharing  
-move FFSP.tar.gz into your root folder and unpack it
+Download FFSP trained model and dataset file from https://drive.google.com/file/d/1TdkeErG1FCUMxoe8ENpxiWwUopPIUikb/view?usp=sharing.  
+Move FFSP.tar.gz into your root folder and unpack it.  
 > tar -xvzf FFSP.tar.gz
 
 <br>
